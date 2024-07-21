@@ -17,7 +17,7 @@ global.location = "Nigeria, Lagos, Africa" //ur location
 
 //new
 global.botname = 'ᗰᗩᏀ€ᑎᎢᗩ' //ur bot name
-global.ownernumber = '2348072632633' //ur owner number
+global.ownernumber = '2348022159244' //ur owner number
 global.ownername = 'ꪻ꠸ꪑꪑꪗ-ᦓꪖꪑꪖ.✰' //ur owner name
 global.websitex = "https://chat.whatsapp.com/GJ5SGZWZ9wk3OcUwo20gG5"
 global.wagc = "https://chat.whatsapp.com/GJ5SGZWZ9wk3OcUwo20gG5"
@@ -26,9 +26,9 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD13' //script link
 global.packname = "Sticker By"
 global.author = "ᗰᗩᏀ€ᑎᎢᗩ\n\nꪻ꠸ꪑꪑꪗ-ᦓꪖꪑꪖ.✰"
-global.creator = "2348072632633@s.whatsapp.net"
+global.creator = "2348022159244@s.whatsapp.net"
 global.xprefix = ','
-global.premium = ["2348072632633"] // Premium User
+global.premium = ["2348022159244"] // Premium User
 global.hituet = 0
 
 //bot sett
